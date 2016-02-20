@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Louise L'Amour, shot in London"
-datePublished: '2016-02-20T10:01:38.735Z'
-dateModified: '2016-02-20T10:00:52.351Z'
-title: Some of our latest shooting
+datePublished: '2016-02-20T10:44:57.843Z'
+dateModified: '2016-02-20T10:43:16.515Z'
+title: One of our latest shootings
 author: []
+sourcePath: _posts/2016-02-20-some-of-our-latest-shooting.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-some-of-our-latest-shooting.md
-published: true
 url: some-of-our-latest-shooting/index.html
 _type: Article
 
