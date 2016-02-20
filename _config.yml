@@ -1,0 +1,28 @@
+name: TheBlackSheep
+favicon: null
+layout_spectrum: 0.1268786925356835
+typography_spectrum: 0.5598810899537057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6401794890407473
+  lightness: 0.9320081165060401
+  saturation: 0.739395369309932
+  rhythmicContrast: 0.2272909434977919
+purpose: []
