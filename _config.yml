@@ -1,5 +1,8 @@
+name: TheBlackSheep
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5598810899537057
 title: 'TheBlackSheep Photography - dedicated to Fetish, Erotic and Fine Art photography'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7795699
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#000000'
     - '#fdfdfb'
     - '#003b4b'
     - '#636363'
     - '#bfbfbf'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: TheBlackSheep
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5598810899537057
-layout_spectrum: 1
+purpose: []
